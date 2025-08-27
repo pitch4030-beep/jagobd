@@ -14,3 +14,13 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400220466.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMBGjwzpwRuEpLWQN2Wz5XEFZG8Pyk8dopTHJZwrmjFLz1dVIqBE08Di8&s=10" group-title="News", Independent TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDc6MDc6MjEgQU0maGFzaF92YWx1ZT1nT1I5ZXArRm1TU1JCM0twNCt2T05RPT0mdmFsaWRtaW51dGVzPTQw|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDc6MDc6MjEgQU0maGFzaF92YWx1ZT1nT1I5ZXArRm1TU1JCM0twNCt2T05RPT0mdmFsaWRtaW51dGVzPTQw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8JqOEDR4FJVI-O-vZZZOxGJ_FmInFmn0Eg&s" group-title="Cinemania", Cinemania Netflix FHD
+http://b1g.uk:80/live/Das/12345/684078.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8JqOEDR4FJVI-O-vZZZOxGJ_FmInFmn0Eg&s" group-title="Cinemania", Cinemania Hollywood 4K
+http://b1g.uk:80/live/Das/12345/397719.ts
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.g_GjaDEj1MeoZJPqoaa1oQHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Kids", Pogo
+http://b1g.uk:80/live/Das/12345/663387.ts
+

@@ -63,11 +63,11 @@ http://b1g.uk:80/live/Das/12345/697057.ts
 #EXTINF:-1 tvg-logo="https://bdixtv24.cam/uploads/tv_image/sm/t-sports-hd.png" group-title="Sports", T Sports
 https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8|Referer=https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://bdixtv24.cam/uploads/tv_image/sm/star-sports-1-hd.png" group-title="Sports", Star Sports 1
-https://bdixtv24.xyz/sports/m3u8.php/star1in.m3u8
+#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Star-Sports-1.png" group-title="Sports", Star Sports 1
+http://b1g.uk:80/Das/12345/260998
 
-#EXTINF:-1 tvg-logo="https://bdixtv24.cam/uploads/tv_image/sm/star-sports-2-hd.png" group-title="Sports", Star Sports 2
-https://tvsen5.aynaott.com/xSZ52snq4z3N/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Star-Sports-2.png" group-title="Sports", Star Sports 2
+http://b1g.uk:80/Das/12345/260999
 
 #EXTINF:-1 tvg-logo="https://bdixtv24.cam/uploads/tv_image/sm/sony-ten-1-hd.png" group-title="Sports", Sony Sports 1
 https://candy-live.linkchur.top/api/762cf859a8/playlist.m3u8|Referer=https://candy-live.linkchur.top/api/762cf859a8/playlist.m3u8
@@ -87,6 +87,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="English", DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 
 
 

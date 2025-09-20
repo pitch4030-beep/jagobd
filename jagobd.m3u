@@ -41,6 +41,11 @@ http://b1g.uk:80/live/Das/12345/663387.ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.c6cc54b5a8c3536c8018bf6d41db38ca?rik=gXQfoaDekhhWmw&pid=ImgRaw&r=0" group-title="Kids", Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="Kids", Super Hungama
+https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzBsvKll3gHjG2CyQrdZEbL5N-fxLvdpoG6W_fU=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bangla", Bijoy TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDc6MTU6MTUgQU0maGFzaF92YWx1ZT1zck9yRDZvaFFWVDFkc0pGV3M5NU9RPT0mdmFsaWRtaW51dGVzPTQw|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDc6MTU6MTUgQU0maGFzaF92YWx1ZT1zck9yRDZvaFFWVDFkc0pGV3M5NU9RPT0mdmFsaWRtaW51dGVzPTQw
 
@@ -98,6 +103,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="English", DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 
 
 
